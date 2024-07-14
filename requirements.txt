@@ -1,0 +1,12 @@
+opencv-python
+numpy
+matplotlib
+mediapipe
+pyautogui
+pillow
+pip install opencv-python
+pip install numpy
+pip install matplotlib
+pip install mediapipe
+pip install PyautoGUI
+pip install PIL
